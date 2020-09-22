@@ -4,5 +4,6 @@ Welcome to the Kitchen
 pasta
 
 chicken Fry
-
+Beans
+Pizza
 thank you.
